@@ -166,3 +166,24 @@ footer nav a {
     width:100%;
     margin-bottom:30px;
 }
+.main-content{
+    display:flex;
+	flex-wrap:wrap;
+	justify-content: space-between;
+	margin-top:20px;
+}
+.main-content div{
+    flex:0 45%;
+	margin-top:10px;
+	margin-right:4px;
+    margin-bottom:10px;
+    border-bottom: 2px dotted black;
+}
+.main-content button{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.together{
+    margin-top:20px;
+    margin-bottom:20px;
+}
