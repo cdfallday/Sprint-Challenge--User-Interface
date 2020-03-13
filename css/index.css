@@ -163,8 +163,16 @@ footer nav a {
 
 .city-skyline{
     display:block;
-    width:100%;
+    width:60%;
     margin-bottom:30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about-section{
+    border-bottom: 2px dotted black;
+}
+.about-section p{
+    margin-bottom:20px;
 }
 .main-content{
     display:flex;
