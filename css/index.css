@@ -100,6 +100,7 @@ nav a{
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+    
 }
 
 .middle-content h2 {
@@ -111,19 +112,49 @@ nav a{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    
 }
 
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    /*background:black;*/
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
+.teal{
+    background-color:teal;
+}
+.gold{
+    background-color: gold;
+}
+.cadetblue{
+    background-color: cadetblue;
+}
+.coral{
+    background-color:coral;
+}
+.crimson{
+    background-color: crimson;
+}
+.forestgreen{
+    background-color:forestgreen;
+}
+.darkorchid{
+    background-color: darkorchid;
+}
+.hotpink{
+    background-color: hotpink;
+}
+.indigo{
+    background-color: indigo;
+}
+.dodgerblue{
+    background-color: dodgerblue;
+}
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
